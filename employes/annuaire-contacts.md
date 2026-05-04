@@ -22,6 +22,8 @@
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
 | Jean Dupont | Directeur informatique | 101-1010 |
+| Jean-Michel Saint-Louis | Analyste systèmes | 431-9025 |
+| Judeline Fleurant | Analyste en sécurité IT | 460-9218 |
 | Julie Fournier | Analyste data | 068-9012 |
 | Kenji Tanaka | Expert intelligence artificielle | 147-5936 |
 | Lucas Martin | Développeur front-end | 063-4567 |
