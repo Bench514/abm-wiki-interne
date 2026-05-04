@@ -41,11 +41,17 @@
 | Priya Sharma | Analyste en automatisation des processus | 369-7752 |
 | Qiang Li | Ingénieur Big Data | 470-8663 |
 | Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
+| Rony Charles | Technicien support | 359-8107 |
 | Sophie Bernard | Développeuse back-end | 064-5678 |
+| Sophonie Laurent | Analyste QA | 926-5874 |
+| Sven Müller | Consultant IT senior | 126-5874 |
+| Takeshi Yamamoto | Ingénieur robotique logicielle | 904-3652
 | Thomas Petit | Administrateur réseaux | 483-4013 |
 | Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
 | Viktor Petrov | Consultant en virtualisation | 703-1396 |
 | Wei Zhang | Ingénieur en apprentissage automatique | 814-2207 |
+| Wesley Joseph | Technicien réseau | 693-2841 |
 | Ximena Cruz | Analyste expérience utilisateur | 925-3118 |
+| Yara Nascimento | Analyste UX | 893-2541 |
 | Youssef Benali | Technicien support niveau 2 | 136-4029 |
 | Zara Khan | Stratège en innovation technologique | 247-5930 |
