@@ -1,1 +1,321 @@
+��� Documentation Équipe TI
+> Guide de référence — Outils et bonnes pratiques Git, Bash & VS Code
+---
+��� Outils utilisés
+Outil	Description
+Git	Gestionnaire de versions
+Git Bash	Terminal Unix sur Windows (MINGW64)
+VS Code	Éditeur de code
+GitHub	Hébergement des dépôts distants
+winget	Gestionnaire de paquets Windows
+---
+��� Environnement
+MINGW64 / Git Bash
+MINGW64 (Minimalist GNU for Windows 64-bit) est l'environnement qui permet d'utiliser des commandes Unix sur Windows. Il est inclus avec Git for Windows.
+Intégrer Git Bash à VS Code
+Ouvrir la palette de commandes : `Ctrl + Shift + P`
+Taper : `Terminal: Select Default Profile`
+Sélectionner Git Bash
+Ouvrir un nouveau terminal : `Ctrl + °`
+---
+��� Installation de Git
+Via winget (CMD)
+```cmd
+winget install Git.Git
+```
+Vérifier l'installation
+```bash
+git --version
+```
+---
+��� Commandes Bash essentielles
+Navigation
+```bash
+pwd               # Afficher le répertoire actuel
+ls                # Lister les fichiers
+cd nom-dossier    # Aller dans un dossier
+cd ..             # Remonter d'un niveau
+```
+Fichiers
+```bash
+# Copier un fichier
+cp fichier.php destination/
 
+# Copier un dossier entier
+cp -r mon-dossier/ destination/
+
+# Renommer / déplacer un fichier
+mv ancien-nom.php nouveau-nom.php
+
+# Créer un dossier
+mkdir nom-dossier
+```
+Rechercher et remplacer dans un fichier
+```bash
+# Remplacer toutes les occurrences de "alice" par "Alice" dans journal.txt
+sed -i 's/alice/Alice/g' journal.txt
+```
+---
+��� Commandes Git essentielles
+Configuration initiale
+```bash
+git config --global user.name "Ton Nom"
+git config --global user.email "ton@email.com"
+```
+Initialiser et connecter un dépôt
+```bash
+git init                                              # Initialiser Git localement
+git remote add origin https://github.com/user/repo   # Connecter à GitHub
+git remote -v                                         # Vérifier la connexion
+```
+Cloner un dépôt existant
+```bash
+git clone https://github.com/user/repo.git
+cd repo
+```
+Workflow quotidien
+```bash
+git status                        # Voir les fichiers modifiés
+git add nom-du-fichier.php        # Ajouter un fichier spécifique
+git add .                         # Ajouter tous les fichiers modifiés
+git commit -m "Description"       # Enregistrer les modifications
+git push origin main              # Pousser sur GitHub
+git pull origin main              # Récupérer les modifications de GitHub
+```
+> ⚠️ `git add` doit **toujours** précéder `git commit`. Sans `git add`, le commit ne voit aucune modification.
+Raccourci add + commit (fichiers déjà suivis uniquement)
+```bash
+git commit -am "Ma modification"
+```
+---
+��� Gestion des branches
+Lister les branches
+```bash
+git branch          # Branches locales
+git branch -r       # Branches distantes (GitHub)
+git branch -a       # Toutes les branches
+```
+Créer et changer de branche
+```bash
+git checkout -b nouvelle-branche    # Créer et basculer
+git checkout nom-branche            # Basculer sur une branche existante
+```
+Renommer une branche
+```bash
+git branch -m ancien-nom nouveau-nom          # Renommer en local
+git push origin nouveau-nom                   # Pousser le nouveau nom
+git push origin --delete ancien-nom           # Supprimer l'ancien nom sur GitHub
+```
+Voir l'historique d'une branche
+```bash
+git log --oneline                   # Historique condensé
+git log --oneline nom-branche       # Historique d'une branche spécifique
+git log --oneline --graph --all     # Vue graphique de toutes les branches
+git show ABC123                     # Détail d'un commit précis
+```
+---
+��� Bonnes pratiques
+Travailler avec des branches
+Avant de modifier du code, toujours créer une branche :
+```bash
+git checkout -b feature/nom-de-la-fonctionnalite
+git add .
+git commit -m "Description claire de la modification"
+git push origin feature/nom-de-la-fonctionnalite
+```
+Récupérer l'historique d'un fichier sur GitHub
+Aller sur le dépôt GitHub
+Naviguer jusqu'au fichier
+Cliquer sur "History" en haut à droite
+Sélectionner un commit pour voir l'ancienne version
+Via Git en ligne de commande
+```bash
+git log -- nom-du-fichier.php                    # Historique du fichier
+git show ABC123:chemin/vers/fichier.php          # Voir une ancienne version
+git checkout ABC123 -- chemin/vers/fichier.php   # Restaurer une ancienne version
+```
+---
+❗ Erreurs fréquentes
+`failed to push some refs`
+```bash
+# Le dépôt distant a du contenu non présent en local
+git pull origin main --allow-unrelated-histories
+git push origin main
+```
+`nothing to commit, working tree clean`
+```bash
+# Oublié de faire git add avant git commit
+git add .
+git commit -m "Ma modification"
+```
+`cannot create regular file: Not a directory`
+```bash
+# Le dossier de destination n'existe pas
+mkdir ../nom-du-dossier
+cp fichier.php ../nom-du-dossier/
+```
+---
+��� Ressources utiles
+Documentation Git : https://git-scm.com/doc
+GitHub : https://github.com
+VS Code : https://code.visualstudio.com
+Winget : https://learn.microsoft.com/fr-fr/windows/package-manager/winget/
+---
+Document généré par l'Équipe TI — Mis à jour le 2026-05-04��� Documentation Équipe TI
+> Guide de référence — Outils et bonnes pratiques Git, Bash & VS Code
+---
+��� Outils utilisés
+Outil	Description
+Git	Gestionnaire de versions
+Git Bash	Terminal Unix sur Windows (MINGW64)
+VS Code	Éditeur de code
+GitHub	Hébergement des dépôts distants
+winget	Gestionnaire de paquets Windows
+---
+��� Environnement
+MINGW64 / Git Bash
+MINGW64 (Minimalist GNU for Windows 64-bit) est l'environnement qui permet d'utiliser des commandes Unix sur Windows. Il est inclus avec Git for Windows.
+Intégrer Git Bash à VS Code
+Ouvrir la palette de commandes : `Ctrl + Shift + P`
+Taper : `Terminal: Select Default Profile`
+Sélectionner Git Bash
+Ouvrir un nouveau terminal : `Ctrl + °`
+---
+��� Installation de Git
+Via winget (CMD)
+```cmd
+winget install Git.Git
+```
+Vérifier l'installation
+```bash
+git --version
+```
+---
+��� Commandes Bash essentielles
+Navigation
+```bash
+pwd               # Afficher le répertoire actuel
+ls                # Lister les fichiers
+cd nom-dossier    # Aller dans un dossier
+cd ..             # Remonter d'un niveau
+```
+Fichiers
+```bash
+# Copier un fichier
+cp fichier.php destination/
+
+# Copier un dossier entier
+cp -r mon-dossier/ destination/
+
+# Renommer / déplacer un fichier
+mv ancien-nom.php nouveau-nom.php
+
+# Créer un dossier
+mkdir nom-dossier
+```
+Rechercher et remplacer dans un fichier
+```bash
+# Remplacer toutes les occurrences de "alice" par "Alice" dans journal.txt
+sed -i 's/alice/Alice/g' journal.txt
+```
+---
+��� Commandes Git essentielles
+Configuration initiale
+```bash
+git config --global user.name "Ton Nom"
+git config --global user.email "ton@email.com"
+```
+Initialiser et connecter un dépôt
+```bash
+git init                                              # Initialiser Git localement
+git remote add origin https://github.com/user/repo   # Connecter à GitHub
+git remote -v                                         # Vérifier la connexion
+```
+Cloner un dépôt existant
+```bash
+git clone https://github.com/user/repo.git
+cd repo
+```
+Workflow quotidien
+```bash
+git status                        # Voir les fichiers modifiés
+git add nom-du-fichier.php        # Ajouter un fichier spécifique
+git add .                         # Ajouter tous les fichiers modifiés
+git commit -m "Description"       # Enregistrer les modifications
+git push origin main              # Pousser sur GitHub
+git pull origin main              # Récupérer les modifications de GitHub
+```
+> ⚠️ `git add` doit **toujours** précéder `git commit`. Sans `git add`, le commit ne voit aucune modification.
+Raccourci add + commit (fichiers déjà suivis uniquement)
+```bash
+git commit -am "Ma modification"
+```
+---
+��� Gestion des branches
+Lister les branches
+```bash
+git branch          # Branches locales
+git branch -r       # Branches distantes (GitHub)
+git branch -a       # Toutes les branches
+```
+Créer et changer de branche
+```bash
+git checkout -b nouvelle-branche    # Créer et basculer
+git checkout nom-branche            # Basculer sur une branche existante
+```
+Renommer une branche
+```bash
+git branch -m ancien-nom nouveau-nom          # Renommer en local
+git push origin nouveau-nom                   # Pousser le nouveau nom
+git push origin --delete ancien-nom           # Supprimer l'ancien nom sur GitHub
+```
+Voir l'historique d'une branche
+```bash
+git log --oneline                   # Historique condensé
+git log --oneline nom-branche       # Historique d'une branche spécifique
+git log --oneline --graph --all     # Vue graphique de toutes les branches
+git show ABC123                     # Détail d'un commit précis
+```
+---
+��� Bonnes pratiques
+Travailler avec des branches
+Avant de modifier du code, toujours créer une branche :
+```bash
+git checkout -b feature/nom-de-la-fonctionnalite
+git add .
+git commit -m "Description claire de la modification"
+git push origin feature/nom-de-la-fonctionnalite
+```
+Récupérer l'historique d'un fichier sur GitHub
+Aller sur le dépôt GitHub
+Naviguer jusqu'au fichier
+Cliquer sur "History" en haut à droite
+Sélectionner un commit pour voir l'ancienne version
+Via Git en ligne de commande
+```bash
+git log -- nom-du-fichier.php                    # Historique du fichier
+git show ABC123:chemin/vers/fichier.php          # Voir une ancienne version
+git checkout ABC123 -- chemin/vers/fichier.php   # Restaurer une ancienne version
+```
+---
+❗ Erreurs fréquentes
+`failed to push some refs`
+```bash
+# Le dépôt distant a du contenu non présent en local
+git pull origin main --allow-unrelated-histories
+git push origin main
+```
+`nothing to commit, working tree clean`
+```bash
+# Oublié de faire git add avant git commit
+git add .
+git commit -m "Ma modification"
+```
+`cannot create regular file: Not a directory`
+```bash
+# Le dossier de destination n'de : https://code.visualstudio.com
+Winget : https://learn.microsoft.com/fr-fr/windows/package-manager/winget/
+---
+Document généré par l'Équipe TI — Mis à jour le 2026-05-04
+# Ceci est un nouveau titre dans mon fichier
+Enregistrement d'une nouvelle ligne 
