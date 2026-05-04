@@ -58,9 +58,11 @@
 | Ivan Kuznetsov | RH projets | 145-9999 |
 | Ivan Petrescu | Développeur back-end | 278-9901 |
 | Inès Diallo | Relations employés |
+| Jamal Hussein | RH international | 290-3234 |
 | Jean Dupont | Directeur informatique | 101-1010 |
 | Jean-Michel Saint-Louis | Analyste systèmes | 431-9025 |
 | Judeline Fleurant | Analyste en sécurité IT | 460-9218 |
+| Julie-Anne Fortin | Communication | 256-0000 |
 | Julie Fournier | Analyste data | 068-9012 |
 | Karim Aït Salah | Architecte cloud | 189-1012 |
 | Kenji Tanaka | Expert intelligence artificielle | 147-5936 |
