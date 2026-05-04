@@ -71,13 +71,17 @@
 | Qiang Li | Ingénieur Big Data | 470-8663 |
 | Quentin Leroy | Développeur back-end | 367-3386 |
 | Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
-
+| Rita Fernandes | Consultante IT | 554-6567 |
 | Rony Charles | Technicien support | 359-8107 |
+| Samuel Okeke | Spécialiste données | 445-7678 |
 | Sophie Bernard | Développeuse back-end | 064-5678 |
 | Sophonie Laurent | Analyste QA | 926-5874 |
 | Sven Müller | Consultant IT senior | 126-5874 |
 | Takeshi Yamamoto | Ingénieur robotique logicielle | 904-3652
+| Tariq Hassan | Technicien support | 336-8789 |
 | Thomas Petit | Administrateur réseaux | 483-4013 |
+| Ulrich Mayer | Consultant IT | 690-0019 |
+| Umberto Ricci | Analyste systèmes
 | Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
 | Viktor Petrov | Consultant en virtualisation | 703-1396 |
 | Wei Zhang | Ingénieur en apprentissage automatique | 814-2207 |
