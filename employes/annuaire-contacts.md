@@ -54,8 +54,10 @@
 | Hina Ali | Analyste cybersécurité | 712-8831 |
 | Hugo Lefebvre | Développeur full-stack | 601-9920 |
 | Hugo Martins | Paie | 978-1012 |
-| Ivan Petrescu | Développeur back-end | 278-9901 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
+| Ivan Kuznetsov | RH projets | 145-9999 |
+| Ivan Petrescu | Développeur back-end | 278-9901 |
+| Inès Diallo | Relations employés |
 | Jean Dupont | Directeur informatique | 101-1010 |
 | Jean-Michel Saint-Louis | Analyste systèmes | 431-9025 |
 | Judeline Fleurant | Analyste en sécurité IT | 460-9218 |
