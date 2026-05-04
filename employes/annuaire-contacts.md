@@ -5,6 +5,7 @@
 | Camille Moreau | Technicienne support IT | 066-7890 |
 | Cilène Dupuis | Développeuse back-end | 254-3914 |
 | Cybèle Rottingdale | Administratrice système | 187-0234 |
+| Jean Dupont | Directeur informatique | 101-1010 |
 | Julie Fournier | Analyste data | 068-9012 |
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
