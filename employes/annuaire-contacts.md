@@ -88,6 +88,8 @@
 | Noah Cohen | Analyste infrastructure | 348-7096 |
 | Nora Ibrahim | Gestionnaire RH régionale | 690-4445 |
 | Olga Petrova | Spécialiste QA automatisée | 671-0329 |
+| Olivia Brown | Responsable bien-être | 845-8789 |
+| Olivier Gauthier | Directeur RH | 701-5556 |
 | Omar Haddad | Responsable infrastructure IT | 258-6841 |
 | Pablo Ortega | Ingénieur DevOps | 663-5456 |
 | Patricia Gomez | Analyste QA | 145-5564 |
