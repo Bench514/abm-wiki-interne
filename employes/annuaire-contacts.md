@@ -2,6 +2,7 @@
 
 | Nom | Poste | Téléphone |
 | --- | --- | --- |
+| Adam Benyamina | Analyste systèmes | 901-2234 |
 | Ahmed Ben Saïd | Architecte sécurité | 560-9218 |
 | Alejandro Morales | Développeur full-stack | 571-0329 |
 | Amina El-Fassi | Architecte cloud | 245-4024|
