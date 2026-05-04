@@ -69,8 +69,9 @@
 | Qamar Abbas | Analyste sécurité | 589-1108 |
 | Qi Wang | Ingénieur data | 478-2297 |
 | Qiang Li | Ingénieur Big Data | 470-8663 |
-| Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
 | Quentin Leroy | Développeur back-end | 367-3386 |
+| Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
+
 | Rony Charles | Technicien support | 359-8107 |
 | Sophie Bernard | Développeuse back-end | 064-5678 |
 | Sophonie Laurent | Analyste QA | 926-5874 |
