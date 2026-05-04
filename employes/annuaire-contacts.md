@@ -19,5 +19,15 @@
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
 | Nikolas Girard | Ingénieur sécurité informatique | 067-8901 |
+| Omar Haddad | Responsable infrastructure IT | 258-6841 |
+| Priya Sharma | Analyste en automatisation des processus | 369-7752 |
+| Qiang Li | Ingénieur Big Data | 470-8663 |
+| Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
 | Sophie Bernard | Développeuse back-end | 064-5678 |
 | Thomas Petit | Administrateur réseaux | 483-4013 |
+| Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
+| Viktor Petrov | Consultant en virtualisation | 703-1396 |
+| Wei Zhang | Ingénieur en apprentissage automatique | 814-2207 |
+| Ximena Cruz | Analyste expérience utilisateur | 925-3118 |
+| Youssef Benali | Technicien support niveau 2 | 136-4029 |
+| Zara Khan | Stratège en innovation technologique | 247-5930 |
