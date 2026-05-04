@@ -116,8 +116,10 @@
 | Sophonie Laurent | Analyste QA | 926-5874 |
 | Sven Müller | Consultant IT senior | 126-5874 |
 | Takeshi Yamamoto | Ingénieur robotique logicielle | 904-3652
+| Tania Kovacs | Mobilité interne | 490-3234 |
 | Tariq Hassan | Technicien support | 336-8789 |
 | Thomas Petit | Administrateur réseaux | 483-4013 |
+| Thomas Weber | Directeur adjoint RH | 356-0001 |
 | Ulrich Mayer | Consultant IT | 690-0019 |
 | Umberto Ricci | Analyste systèmes
 | Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
