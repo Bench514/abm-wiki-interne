@@ -28,6 +28,9 @@
 | Fatima Zahra El Idrissi | Consultante transformation digitale | 115-4763 |
 | Fatou Ndiaye | Analyste cybersécurité | 663-9182 |
 | Frantz Dorvilier | Ingénieur logiciel | 815-4763 |
+| Gabriel Morel | Architecte IT | 278-2297 |
+| Gaston Bouchard | Analyste données | 490-0019 |
+| George Mensah | Administrateur réseaux | 456-7789 |
 | Giulia Rossi | Consultante transformation numérique | 714-6509 |
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
