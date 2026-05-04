@@ -47,11 +47,13 @@
 | Giulia Rossi | Consultante transformation numérique | 714-6509 |
 | Grace Kim | Designer UI/UX | 389-1108 |
 | Guillaume Roy | Directeur opérations | 867-9901 |
+| Hafsa Rahman | Paie | 934-8888 |
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
 | Hector Ruiz | Technicien IT | 823-7742 |
 | Hélène Paquette | Gestionnaire IT | 367-8890 |
 | Hina Ali | Analyste cybersécurité | 712-8831 |
 | Hugo Lefebvre | Développeur full-stack | 601-9920 |
+| Hugo Martins | Paie | 978-1012 |
 | Ivan Petrescu | Développeur back-end | 278-9901 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
 | Jean Dupont | Directeur informatique | 101-1010 |
