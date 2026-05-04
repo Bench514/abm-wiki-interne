@@ -15,6 +15,7 @@
 | David O'Connor | Responsable IT opérations | 782-1430 |
 | Diego Fernandez | Designer UX/UI senior | 481-2307 |
 | Eun-ji Park | Développeuse applications mobiles | 592-7743 |
+| Fatima Zahra El Idrissi | Consultante transformation digitale | 115-4763 |
 | Fatou Ndiaye | Analyste cybersécurité | 663-9182 |
 | Giulia Rossi | Consultante transformation numérique | 714-6509 |
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
