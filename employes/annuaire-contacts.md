@@ -15,6 +15,7 @@
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
 | Jean Dupont | Directeur informatique | 101-1010 |
 | Julie Fournier | Analyste data | 068-9012 |
+| Kenji Tanaka | Expert intelligence artificielle | 147-5936 |
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
 | Nikolas Girard | Ingénieur sécurité informatique | 067-8901 |
