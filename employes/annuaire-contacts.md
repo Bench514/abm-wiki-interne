@@ -99,9 +99,11 @@
 | Priyanka Das | Spécialiste développement RH | 812-6667 |
 | Priya Sharma | Analyste en automatisation des processus | 369-7752 |
 | Qamar Abbas | Analyste sécurité | 589-1108 |
+| Qasim Ali | Analyste performance RH | 923-7778 |
 | Qi Wang | Ingénieur data | 478-2297 |
 | Qiang Li | Ingénieur Big Data | 470-8663 |
 | Quentin Leroy | Développeur back-end | 367-3386 |
+| Quincy Adams | Engagement employés | 167-0901 |
 | Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
 | Rita Fernandes | Consultante IT | 554-6567 |
 | Rony Charles | Technicien support | 359-8107 |
