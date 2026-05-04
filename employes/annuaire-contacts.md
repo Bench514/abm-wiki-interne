@@ -8,6 +8,8 @@
 | Anika Patel | Analyste données | 915-4763 |
 | Boris Ivanov | Spécialiste DevOps | 378-5591 |
 | Camille Moreau | Technicienne support IT | 066-7890 |
+| Carline Toussaint | Coordonnatrice IT | 704-3652 |
+| Chloé Dubois | Designer UI | 682-1430 |
 | Cilène Dupuis | Développeuse back-end | 254-3914 |
 | Cybèle Rottingdale | Administratrice système | 187-0234 |
 | Diego Fernandez | Designer UX/UI senior | 481-2307 |
