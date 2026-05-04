@@ -32,7 +32,12 @@
 | Gaston Bouchard | Analyste données | 490-0019 |
 | George Mensah | Administrateur réseaux | 456-7789 |
 | Giulia Rossi | Consultante transformation numérique | 714-6509 |
+| Grace Kim | Designer UI/UX | 389-1108 |
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
+| Hector Ruiz | Technicien IT | 823-7742 |
+| Hélène Paquette | Gestionnaire IT | 367-8890 |
+| Hina Ali | Analyste cybersécurité | 712-8831 |
+| Hugo Lefebvre | Développeur full-stack | 601-9920 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
 | Jean Dupont | Directeur informatique | 101-1010 |
 | Jean-Michel Saint-Louis | Analyste systèmes | 431-9025 |
