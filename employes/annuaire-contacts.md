@@ -44,11 +44,14 @@
 | Jean-Michel Saint-Louis | Analyste systèmes | 431-9025 |
 | Judeline Fleurant | Analyste en sécurité IT | 460-9218 |
 | Julie Fournier | Analyste data | 068-9012 |
+| Karim Aït Salah | Architecte cloud | 189-1012 |
 | Kenji Tanaka | Expert intelligence artificielle | 147-5936 |
 | Kerven Petit-Frère | Spécialiste cloud | 137-6985 |
 | Lars Johansson | Ingénieur systèmes | 804-3652 |
+| Léa Roy | Analyste QA | 990-2123 |
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
+| Matteo De Luca | Développeur full-stack | 881-3234 |
 | Mei Lin | Développeuse back-end | 459-8107 |
 | Mireille Desrosiers | Administratrice bases de données | 248-7096 |
 | Mohammed Rahman | Spécialiste cybersécurité | 793-2541 |
