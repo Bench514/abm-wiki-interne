@@ -120,9 +120,11 @@
 | Tariq Hassan | Technicien support | 336-8789 |
 | Thomas Petit | Administrateur réseaux | 483-4013 |
 | Thomas Weber | Directeur adjoint RH | 356-0001 |
+| Ugo Ferrari | Relations travail | 501-4345 |
 | Ulrich Mayer | Consultant IT | 690-0019 |
 | Umberto Ricci | Analyste systèmes
 | Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
+| Usman Malik | Spécialiste paie | 467-1113 |
 | Usman Sheikh | Spécialiste cloud | 812-8831 |
 | Valérie Gagnon | Designer UX | 923-7742 |
 | Vanessa Lopes | Analyste data | 245-5564 |
