@@ -319,4 +319,5 @@ Winget : https://learn.microsoft.com/fr-fr/windows/package-manager/winget/
 Document généré par l'Équipe TI — Mis à jour le 2026-05-04
 # Ceci est un nouveau titre dans mon fichier
 Enregistrement d'une nouvelle ligne 
-Enregistrement de la seconde ligne du fichier
+Enregistrement de la seconde ligne dans ce fichier
+ 
