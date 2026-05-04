@@ -105,8 +105,10 @@
 | Quentin Leroy | Développeur back-end | 367-3386 |
 | Quincy Adams | Engagement employés | 167-0901 |
 | Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
+| Rania El-Khoury | Conseillère diversité | 278-1012 |
 | Rita Fernandes | Consultante IT | 554-6567 |
 | Rony Charles | Technicien support | 359-8107 |
+| Roxane Picard | Relations travail | 134-8889 |
 | Samuel Okeke | Spécialiste données | 445-7678 |
 | Sophie Bernard | Développeuse back-end | 064-5678 |
 | Sophonie Laurent | Analyste QA | 926-5874 |
