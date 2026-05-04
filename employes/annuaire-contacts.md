@@ -25,6 +25,8 @@
 | Daniel Schmidt | Ingénieur logiciel | 723-4456 |
 | David O'Connor | Responsable IT opérations | 782-1430 |
 | Diego Fernandez | Designer UX/UI senior | 481-2307 |
+| Dominic Fraser | Conformité RH | 590-4444 |
+| Dylan Tremblay | Formation | 534-6678 |
 | Elena Petrova | Administratrice systèmes | 167-3386 |
 | Élodie Mercier | Analyste data | 634-5567 |
 | Emma Tremblay | Analyste UX | 845-5564 |
