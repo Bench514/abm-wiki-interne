@@ -19,6 +19,10 @@
 | Daniel Schmidt | Ingénieur logiciel | 723-4456 |
 | David O'Connor | Responsable IT opérations | 782-1430 |
 | Diego Fernandez | Designer UX/UI senior | 481-2307 |
+| Elena Petrova | Administratrice systèmes | 167-3386 |
+| Élodie Mercier | Analyste data | 634-5567 |
+| Emma Tremblay | Analyste UX | 845-5564 |
+| Ethan Brown | Développeur back-end | 956-4475 |
 | Eun-ji Park | Développeuse applications mobiles | 592-7743 |
 | Fatima Zahra El Idrissi | Consultante transformation digitale | 115-4763 |
 | Fatou Ndiaye | Analyste cybersécurité | 663-9182 |
