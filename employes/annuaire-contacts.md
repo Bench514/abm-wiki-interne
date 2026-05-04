@@ -26,6 +26,8 @@
 | Judeline Fleurant | Analyste en sécurité IT | 460-9218 |
 | Julie Fournier | Analyste data | 068-9012 |
 | Kenji Tanaka | Expert intelligence artificielle | 147-5936 |
+| Kerven Petit-Frère | Spécialiste cloud | 137-6985 |
+| Lars Johansson | Ingénieur systèmes | 804-3652 |
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
 | Nikolas Girard | Ingénieur sécurité informatique | 067-8901 |
