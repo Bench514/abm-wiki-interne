@@ -4,7 +4,9 @@
 | --- | --- | --- |
 | Adam Benyamina | Analyste systèmes | 901-2234 |
 | Ahmed Ben Saïd | Architecte sécurité | 560-9218 |
+| Aïcha Traoré | Responsable inclusion | 267-1111 |
 | Alejandro Morales | Développeur full-stack | 571-0329 |
+| Amélie Gagnon | Directrice Ressources humaines | 201-3345 |
 | Amina El-Fassi | Architecte cloud | 245-4024|
 | Anika Patel | Analyste données | 915-4763 |
 | Béatrice Nguyen | Dexigner UX | 812-3345 |
