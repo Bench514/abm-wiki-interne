@@ -6,19 +6,21 @@
 | Ahmed Ben Saïd | Architecte sécurité | 560-9218 |
 | Aïcha Traoré | Responsable inclusion | 267-1111 |
 | Alejandro Morales | Développeur full-stack | 571-0329 |
-| Amélie Gagnon | Directrice Ressources humaines | 201-3345 |
+| Amélie Gagnon | Directrice RH | 201-3345 |
 | Amina El-Fassi | Architecte cloud | 245-4024|
 | Anika Patel | Analyste données | 915-4763 |
 | Béatrice Nguyen | Dexigner UX | 812-3345 |
 | Benoît Leduc | Directeur administrateur | 378-2222 |
 | Bilal Khan | Spécialiste sécurité cloud | 734-6653 |
 | Boris Ivanov | Spécialiste DevOps | 378-5591 |
-| Brandon Smith | Responsable recrutement | 312-4456 |
+| Brandon Smith | Recrutement | 312-4456 |
 | Bruno Caron | Analyste réseau | 512-8831 |
 | Camille Moreau | Technicienne support IT | 066-7890 |
 | Carline Toussaint | Coordonnatrice IT | 704-3652 |
+| Carmen Alvarez | RH senior | 489-3333 |
 | Chloé Dubois | Designer UI | 682-1430 |
 | Cilène Dupuis | Développeuse back-end | 254-3914 |
+| Clara Mendes | Conseillère ressources humaines | 423-5567 |
 | Cybèle Rottingdale | Administratrice système | 187-0234 |
 | Daniel Schmidt | Ingénieur logiciel | 723-4456 |
 | David O'Connor | Responsable IT opérations | 782-1430 |
