@@ -71,6 +71,8 @@
 | Kofi Mensah | Conseiller diversité |
 | Lars Johansson | Ingénieur systèmes | 804-3652 |
 | Léa Roy | Analyste QA | 990-2123 |
+| Luis Ortega | Responsable performance organisationnelle | 512-5456 |
+| Lina Zhou | Analyste engagement employés | 478-2223 |
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
 | Matteo De Luca | Développeur full-stack | 881-3234 |
