@@ -35,6 +35,8 @@
 | Mohammed Rahman | Spécialiste cybersécurité | 793-2541 |
 | Nadège Pierre | Gestionnaire applications | 582-1173 |
 | Nikolas Girard | Ingénieur sécurité informatique | 067-8901 |
+| Noah Cohen | Analyste infrastructure | 348-7096 |
+| Olga Petrova | Spécialiste QA automatisée | 671-0329 |
 | Omar Haddad | Responsable infrastructure IT | 258-6841 |
 | Priya Sharma | Analyste en automatisation des processus | 369-7752 |
 | Qiang Li | Ingénieur Big Data | 470-8663 |
