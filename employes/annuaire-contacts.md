@@ -12,6 +12,7 @@
 | Chloé Dubois | Designer UI | 682-1430 |
 | Cilène Dupuis | Développeuse back-end | 254-3914 |
 | Cybèle Rottingdale | Administratrice système | 187-0234 |
+| David O'Connor | Responsable IT opérations | 782-1430 |
 | Diego Fernandez | Designer UX/UI senior | 481-2307 |
 | Eun-ji Park | Développeuse applications mobiles | 592-7743 |
 | Fatou Ndiaye | Analyste cybersécurité | 663-9182 |
