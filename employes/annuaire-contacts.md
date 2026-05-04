@@ -7,7 +7,10 @@
 | Alejandro Morales | Développeur full-stack | 571-0329 |
 | Amina El-Fassi | Architecte cloud | 245-4024|
 | Anika Patel | Analyste données | 915-4763 |
+| Béatrice Nguyen | Dexigner UX | 812-3345 |
+| Bilal Khan | Spécialiste sécurité cloud | 734-6653 |
 | Boris Ivanov | Spécialiste DevOps | 378-5591 |
+| Bruno Caron | Analyste réseau | 512-8831 |
 | Camille Moreau | Technicienne support IT | 066-7890 |
 | Carline Toussaint | Coordonnatrice IT | 704-3652 |
 | Chloé Dubois | Designer UI | 682-1430 |
