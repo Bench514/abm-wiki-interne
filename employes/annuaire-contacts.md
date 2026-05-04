@@ -61,9 +61,16 @@
 | Noah Cohen | Analyste infrastructure | 348-7096 |
 | Olga Petrova | Spécialiste QA automatisée | 671-0329 |
 | Omar Haddad | Responsable infrastructure IT | 258-6841 |
+| Pablo Ortega | Ingénieur DevOps | 663-5456 |
+| Patricia Gomez | Analyste QA | 145-5564 |
+| Paul Giroux | Administrateur réseau | 934-6653 |
+| Peter Novak | Ingénieur logiciel | 256-4475 |
 | Priya Sharma | Analyste en automatisation des processus | 369-7752 |
+| Qamar Abbas | Analyste sécurité | 589-1108 |
+| Qi Wang | Ingénieur data | 478-2297 |
 | Qiang Li | Ingénieur Big Data | 470-8663 |
 | Rafael Souza | Spécialiste en tests logiciels | 581-9574 |
+| Quentin Leroy | Développeur back-end | 367-3386 |
 | Rony Charles | Technicien support | 359-8107 |
 | Sophie Bernard | Développeuse back-end | 064-5678 |
 | Sophonie Laurent | Analyste QA | 926-5874 |
