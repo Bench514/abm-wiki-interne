@@ -38,6 +38,7 @@
 | Hélène Paquette | Gestionnaire IT | 367-8890 |
 | Hina Ali | Analyste cybersécurité | 712-8831 |
 | Hugo Lefebvre | Développeur full-stack | 601-9920 |
+| Ivan Petrescu | Développeur back-end | 278-9901 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
 | Jean Dupont | Directeur informatique | 101-1010 |
 | Jean-Michel Saint-Louis | Analyste systèmes | 431-9025 |
