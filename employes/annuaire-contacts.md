@@ -13,7 +13,7 @@
 | Benoît Leduc | Directeur administrateur | 378-2222 |
 | Bilal Khan | Spécialiste sécurité cloud | 734-6653 |
 | Boris Ivanov | Spécialiste DevOps | 378-5591 |
-| Brandon Smith | Recrutement | 312-4456 |
+| Brandon Smith | Responsable recrutement | 312-4456 |
 | Bruno Caron | Analyste réseau | 512-8831 |
 | Camille Moreau | Technicienne support IT | 066-7890 |
 | Carline Toussaint | Coordonnatrice IT | 704-3652 |
@@ -28,15 +28,15 @@
 | Dominic Fraser | Conformité RH | 590-4444 |
 | Dylan Tremblay | Formation | 534-6678 |
 | Elena Petrova | Administratrice systèmes | 167-3386 |
-| Elisa Romano | Talents | 645-7789 |
+| Elisa Romano | Gestion talents | 645-7789 |
 | Élodie Mercier | Analyste data | 634-5567 |
 | Emma Tremblay | Analyste UX | 845-5564 |
 | Ethan Brown | Développeur back-end | 956-4475 |
-| Ethan Nguyen | RH | 601-5555 |
+| Ethan Nguyen | Secrétaire RH | 601-5555 |
 | Eun-ji Park | Développeuse applications mobiles | 592-7743 |
-| Farah Benali | Diversité | 756-8890 |
+| Farah Benali | Conseillère diversité | 756-8890 |
 | Farid Ouali | Spécialiste cybersécurité | 545-6678 |
-| Fatima Noor | Recrutement | 712-6666 |
+| Fatima Noor | Responsable recrutement | 712-6666 |
 | Fatima Zahra El Idrissi | Consultante transformation digitale | 115-4763 |
 | Fatou Ndiaye | Analyste cybersécurité | 663-9182 |
 | Frantz Dorvilier | Ingénieur logiciel | 815-4763 |
@@ -47,13 +47,13 @@
 | Giulia Rossi | Consultante transformation numérique | 714-6509 |
 | Grace Kim | Designer UI/UX | 389-1108 |
 | Guillaume Roy | Directeur opérations | 867-9901 |
-| Hafsa Rahman | Paie | 934-8888 |
+| Hafsa Rahman | Spécialiste paie | 934-8888 |
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
 | Hector Ruiz | Technicien IT | 823-7742 |
 | Hélène Paquette | Gestionnaire IT | 367-8890 |
 | Hina Ali | Analyste cybersécurité | 712-8831 |
 | Hugo Lefebvre | Développeur full-stack | 601-9920 |
-| Hugo Martins | Paie | 978-1012 |
+| Hugo Martins | Spécialiste paie | 978-1012 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
 | Ivan Kuznetsov | RH projets | 145-9999 |
 | Ivan Petrescu | Développeur back-end | 278-9901 |
