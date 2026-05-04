@@ -34,7 +34,9 @@
 | Ethan Brown | Développeur back-end | 956-4475 |
 | Ethan Nguyen | RH | 601-5555 |
 | Eun-ji Park | Développeuse applications mobiles | 592-7743 |
+| Farah Benali | Diversité | 756-8890 |
 | Farid Ouali | Spécialiste cybersécurité | 545-6678 |
+| Fatima Noor | Recrutement | 712-6666 |
 | Fatima Zahra El Idrissi | Consultante transformation digitale | 115-4763 |
 | Fatou Ndiaye | Analyste cybersécurité | 663-9182 |
 | Frantz Dorvilier | Ingénieur logiciel | 815-4763 |
