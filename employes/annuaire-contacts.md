@@ -17,6 +17,7 @@
 | Eun-ji Park | Développeuse applications mobiles | 592-7743 |
 | Fatima Zahra El Idrissi | Consultante transformation digitale | 115-4763 |
 | Fatou Ndiaye | Analyste cybersécurité | 663-9182 |
+| Frantz Dorvilier | Ingénieur logiciel | 815-4763 |
 | Giulia Rossi | Consultante transformation numérique | 714-6509 |
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
