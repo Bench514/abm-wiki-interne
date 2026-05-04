@@ -30,6 +30,10 @@
 | Lars Johansson | Ingénieur systèmes | 804-3652 |
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
+| Mei Lin | Développeuse back-end | 459-8107 |
+| Mireille Desrosiers | Administratrice bases de données | 248-7096 |
+| Mohammed Rahman | Spécialiste cybersécurité | 793-2541 |
+| Nadège Pierre | Gestionnaire applications | 582-1173 |
 | Nikolas Girard | Ingénieur sécurité informatique | 067-8901 |
 | Omar Haddad | Responsable infrastructure IT | 258-6841 |
 | Priya Sharma | Analyste en automatisation des processus | 369-7752 |
