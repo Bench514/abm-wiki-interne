@@ -96,3 +96,6 @@
 | Yara Nascimento | Analyste UX | 893-2541 |
 | Youssef Benali | Technicien support niveau 2 | 136-4029 |
 | Zara Khan | Stratège en innovation technologique | 247-5930 |
+| Zinedine Belkacem | Analyste IT | 578-2297 |
+| Zoe Miller | Développeuse front-end | 689-1108 |
+| Zoltan Nagy | Ingénieur systèmes | 790-0019 |
