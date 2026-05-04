@@ -83,6 +83,10 @@
 | Ulrich Mayer | Consultant IT | 690-0019 |
 | Umberto Ricci | Analyste systèmes
 | Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
+| Usman Sheikh | Spécialiste cloud | 812-8831 |
+| Valérie Gagnon | Designer UX | 923-7742 |
+| Vanessa Lopes | Analyste data | 245-5564 |
+| Victor Hugo Ramos | Développeur mobile | 134-6653 |
 | Viktor Petrov | Consultant en virtualisation | 703-1396 |
 | Wei Zhang | Ingénieur en apprentissage automatique | 814-2207 |
 | Wesley Joseph | Technicien réseau | 693-2841 |
