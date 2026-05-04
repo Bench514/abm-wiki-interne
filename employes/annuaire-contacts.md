@@ -76,6 +76,8 @@
 | Lucas Martin | Développeur front-end | 063-4567 |
 | Marie Lambert | Cheffe de projet IT | 062-3456 |
 | Matteo De Luca | Développeur full-stack | 881-3234 |
+| Maya Singh | Gestionnaire formation continue | 623-6567 |
+| Mehdi Bensalem | Responsable talent | 589-3334 |
 | Mei Lin | Développeuse back-end | 459-8107 |
 | Mireille Desrosiers | Administratrice bases de données | 248-7096 |
 | Mohammed Rahman | Spécialiste cybersécurité | 793-2541 |
