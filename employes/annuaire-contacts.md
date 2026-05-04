@@ -65,8 +65,10 @@
 | Julie-Anne Fortin | Communication | 256-0000 |
 | Julie Fournier | Analyste data | 068-9012 |
 | Karim Aït Salah | Architecte cloud | 189-1012 |
+| Karine Bouchard | Directrice adjointe RH |
 | Kenji Tanaka | Expert intelligence artificielle | 147-5936 |
 | Kerven Petit-Frère | Spécialiste cloud | 137-6985 |
+| Kofi Mensah | Conseiller diversité |
 | Lars Johansson | Ingénieur systèmes | 804-3652 |
 | Léa Roy | Analyste QA | 990-2123 |
 | Lucas Martin | Développeur front-end | 063-4567 |
