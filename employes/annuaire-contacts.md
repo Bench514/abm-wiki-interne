@@ -137,8 +137,11 @@
 | William Chen | Analyste rémunération | 723-6567 |
 | Xiao Chen | Spécialiste intelligence artificielle | 467-3386
 | Xavier Delorme | Ingénieur logiciel | 356-4475 |
+| Xavier Moreira | Stratégie RH | 834-7678 |
 | Ximena Cruz | Analyste expérience utilisateur | 925-3118 |
+| Yannick Dubois | Formation | 689-3335 |
 | Yara Nascimento | Analyste UX | 893-2541 |
+| Yasmine Haddad | Formation | 689-3335 |
 | Youssef Benali | Technicien support niveau 2 | 136-4029 |
 | Zara Khan | Stratège en innovation technologique | 247-5930 |
 | Zinedine Belkacem | Analyste IT | 578-2297 |
