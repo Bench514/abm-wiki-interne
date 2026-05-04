@@ -90,6 +90,8 @@
 | Viktor Petrov | Consultant en virtualisation | 703-1396 |
 | Wei Zhang | Ingénieur en apprentissage automatique | 814-2207 |
 | Wesley Joseph | Technicien réseau | 693-2841 |
+| Xiao Chen | Spécialiste intelligence artificielle | 467-3386
+| Xavier Delorme | Ingénieur logiciel | 356-4475 |
 | Ximena Cruz | Analyste expérience utilisateur | 925-3118 |
 | Yara Nascimento | Analyste UX | 893-2541 |
 | Youssef Benali | Technicien support niveau 2 | 136-4029 |
