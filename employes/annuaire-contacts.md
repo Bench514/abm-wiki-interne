@@ -109,7 +109,9 @@
 | Rita Fernandes | Consultante IT | 554-6567 |
 | Rony Charles | Technicien support | 359-8107 |
 | Roxane Picard | Relations travail | 134-8889 |
+| Samuel Bergeron | Directeur développement organisationnel | 389-2123 |
 | Samuel Okeke | Spécialiste données | 445-7678 |
+| Sara Lopez | Responsable recrutement | 245-9990 |
 | Sophie Bernard | Développeuse back-end | 064-5678 |
 | Sophonie Laurent | Analyste QA | 926-5874 |
 | Sven Müller | Consultant IT senior | 126-5874 |
