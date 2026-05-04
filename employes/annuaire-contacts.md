@@ -93,8 +93,10 @@
 | Omar Haddad | Responsable infrastructure IT | 258-6841 |
 | Pablo Ortega | Ingénieur DevOps | 663-5456 |
 | Patricia Gomez | Analyste QA | 145-5564 |
+| Pauline Lefebvre | Partenaire d'affaires RH | 956-9890 |
 | Paul Giroux | Administrateur réseau | 934-6653 |
 | Peter Novak | Ingénieur logiciel | 256-4475 |
+| Priyanka Das | Spécialiste développement RH | 812-6667 |
 | Priya Sharma | Analyste en automatisation des processus | 369-7752 |
 | Qamar Abbas | Analyste sécurité | 589-1108 |
 | Qi Wang | Ingénieur data | 478-2297 |
