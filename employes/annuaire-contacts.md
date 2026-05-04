@@ -126,7 +126,9 @@
 | Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
 | Usman Malik | Spécialiste paie | 467-1113 |
 | Usman Sheikh | Spécialiste cloud | 812-8831 |
+| Valentina Costa | Gestionnaire RH | 578-2224 |
 | Valérie Gagnon | Designer UX | 923-7742 |
+| Vanessa Dupuis | Recrutement senior | 612-5456 |
 | Vanessa Lopes | Analyste data | 245-5564 |
 | Victor Hugo Ramos | Développeur mobile | 134-6653 |
 | Viktor Petrov | Consultant en virtualisation | 703-1396 |
