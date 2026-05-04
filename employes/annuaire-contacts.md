@@ -5,6 +5,7 @@
 | Ahmed Ben Saïd | Architecte sécurité | 560-9218 |
 | Alejandro Morales | Développeur full-stack | 571-0329 |
 | Amina El-Fassi | Architecte cloud | 245-4024|
+| Anika Patel | Analyste données | 915-4763 |
 | Boris Ivanov | Spécialiste DevOps | 378-5591 |
 | Camille Moreau | Technicienne support IT | 066-7890 |
 | Cilène Dupuis | Développeuse back-end | 254-3914 |
