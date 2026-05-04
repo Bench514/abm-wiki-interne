@@ -28,9 +28,11 @@
 | Dominic Fraser | Conformité RH | 590-4444 |
 | Dylan Tremblay | Formation | 534-6678 |
 | Elena Petrova | Administratrice systèmes | 167-3386 |
+| Elisa Romano | Talents | 645-7789 |
 | Élodie Mercier | Analyste data | 634-5567 |
 | Emma Tremblay | Analyste UX | 845-5564 |
 | Ethan Brown | Développeur back-end | 956-4475 |
+| Ethan Nguyen | RH | 601-5555 |
 | Eun-ji Park | Développeuse applications mobiles | 592-7743 |
 | Farid Ouali | Spécialiste cybersécurité | 545-6678 |
 | Fatima Zahra El Idrissi | Consultante transformation digitale | 115-4763 |
