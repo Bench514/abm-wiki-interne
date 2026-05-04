@@ -83,8 +83,10 @@
 | Mohammed Rahman | Spécialiste cybersécurité | 793-2541 |
 | Nadège Pierre | Gestionnaire applications | 582-1173 |
 | Nadim Saad | Analyste infrastructure | 772-4345 |
+| Nicolas Perreault | Analyste RH | 734-7678 |
 | Nikolas Girard | Ingénieur sécurité informatique | 067-8901 |
 | Noah Cohen | Analyste infrastructure | 348-7096 |
+| Nora Ibrahim | Gestionnaire RH régionale | 690-4445 |
 | Olga Petrova | Spécialiste QA automatisée | 671-0329 |
 | Omar Haddad | Responsable infrastructure IT | 258-6841 |
 | Pablo Ortega | Ingénieur DevOps | 663-5456 |
