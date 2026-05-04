@@ -43,8 +43,10 @@
 | Gabriel Morel | Architecte IT | 278-2297 |
 | Gaston Bouchard | Analyste données | 490-0019 |
 | George Mensah | Administrateur réseaux | 456-7789 |
+| Gilles Pelletier | Directeur stratégie | 823-7777 |
 | Giulia Rossi | Consultante transformation numérique | 714-6509 |
 | Grace Kim | Designer UI/UX | 389-1108 |
+| Guillaume Roy | Directeur opérations | 867-9901 |
 | Hassan Al-Mansouri | Ingénieur réseaux avancés | 825-3014 |
 | Hector Ruiz | Technicien IT | 823-7742 |
 | Hélène Paquette | Gestionnaire IT | 367-8890 |
