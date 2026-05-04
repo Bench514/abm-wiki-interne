@@ -143,6 +143,7 @@
 | Yara Nascimento | Analyste UX | 893-2541 |
 | Yasmine Haddad | Formation | 689-3335 |
 | Youssef Benali | Technicien support niveau 2 | 136-4029 |
+| Zachary Wilson | Gestion talents | 156-9890 |
 | Zara Khan | Stratège en innovation technologique | 247-5930 |
 | Zinedine Belkacem | Analyste IT | 578-2297 |
 | Zoe Miller | Développeuse front-end | 689-1108 |
