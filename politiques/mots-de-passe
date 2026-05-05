@@ -1,0 +1,32 @@
+!(![alt text](20211121_619a0d336d353.webp)) 
+
+# Politique de gestion des mots de passe
+
+## 1. Objectif et contexte d'utilisation
+Cette politique définit les exigences minimales relatives à la création, à la gestion et à la protection des mots de passe au sein d'**ABM**. L'objectif est de réduire les risques d'accès non autorisé aux système et aux données de l'entreprise.
+
+## 2. Portée
+Cette politique s'applique à l'ensemble des employés, consultants et stagiaires d'ABM ayant accès au réseau, aux applications et aux appareils de l'organisation.
+
+## 3. Règles de complexité et de création
+Conformoément aux directives de sécurité modernes ([NIST SP 800-63B](https://pages.nist.gov/800-63-4/sp800-63b.html)), ABM privilégie la longueur à la complexité arbitraire pour encourager l'usage de phrases de passe (*passphrase*) :
+* **Longueur minimale :** Au moins **15 caractères** pour les comptes standards (ou 8 caractères si la MFA est activée).
+* **Longueur maximale autorisée :** Jusqu'à 64 caractères pour permettre l'usage de phrases longues.
+* **Types de caractères :** Acceptation de tous les caractères ASCII imprimables, des espaces et des caractères Unicode.
+* **Interdiction :** Rejet automatique des mots de passe compromis ou trop simples (ex. : `12345678`, `password`) via une liste de blocage (*blocklist*).
+
+## 4. Authentification multifacteur (MFA)
+L'authentification à un seul facteur (mot de passe uniquement) est insuffisante pour protèger les données d'ABM.
+* **Obligation :** L'activation de la MFA est obligatoire pour l'accès à tous les comptes d'entreprise (courriels, VPN, applications infonuagiques).
+* **Méthodes autorisées :**
+  * Applications d'authentification (ex. : Microsoft Authenticator, Google Authenticator) générant des codes à usage unique (TOTP).
+  * Clés de sécurité physique (ex. : YubiKey).
+  * Notifications push avec vérification du numéro.
+* **Méthodes déconseillées :** L'utilisation des SMS ou des appels vocaux comme second facteur est interdite, sauf dérogation explicite de l'équipe TI.
+
+## 5. Renouvellement et gestion
+* **Changement de mot de passe :** Aucun renouvellement périodique obligatoire (ex. : aux 90 jours) n'est imposé, sauf en cas de compromission avérée ou de suspécion de fuite de données.
+* **Stockage :** L'utilisation d'un gestionnaire de mots de passe approuvé par l'équipe TI d'ABM est obligatoire pour enregistrer les indentifiants de manière chiffrée.
+* **Vérouillage :** Le compte sera vérrouillé après 5 tentatives de connection infructueuse consécutives.
+* **Partage :** Le partage de mots de passe ou de jetons MFA entre collaborateurs est strictement interdit.
+
