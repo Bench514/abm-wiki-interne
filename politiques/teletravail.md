@@ -1,6 +1,6 @@
 # Politique de télétravail
 ![Illustration du télétravail](https://media.lactualite.com/2021/03/1920x1080-teletravail.jpg)
-## 1. Objectifp
+## 1. Objectif
 Cette politique vise à encadrer la pratique du télétravail chez Atelier Boréal Médias Inc. (ABM), afin d’assurer la continuité des opérations, la sécurité de l’information et le bien-être des employés.
 
 ## 2. Portée
