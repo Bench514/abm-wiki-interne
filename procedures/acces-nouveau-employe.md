@@ -3,7 +3,7 @@
 ## Préparation
 
 Afin que l'employé soit prêt pour commencer à travailler, il est necessaire que ce dernier obtienne les items suivants:
-
+---
 
 | Item 1 | Item 2 | Item 3 |
 |---|---|---|
