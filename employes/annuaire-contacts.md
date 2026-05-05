@@ -9,7 +9,7 @@
 | Amélie Gagnon | Directrice RH | 201-3345 |
 | Amina El-Fassi | Architecte cloud | 245-4024|
 | Anika Patel | Analyste données | 915-4763 |
-| Béatrice Nguyen | Dexigner UX | 812-3345 |
+| Béatrice Nguyen | Designer UX | 812-3345 |
 | Benoît Leduc | Directeur administrateur | 378-2222 |
 | Bilal Khan | Spécialiste sécurité cloud | 734-6653 |
 | Boris Ivanov | Spécialiste DevOps | 378-5591 |
