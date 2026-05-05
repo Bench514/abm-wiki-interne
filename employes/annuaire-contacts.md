@@ -57,7 +57,7 @@
 | Ivana Kovačević | Spécialiste bases de données | 936-4428 |
 | Ivan Kuznetsov | RH projets | 145-9999 |
 | Ivan Petrescu | Développeur back-end | 278-9901 |
-| Inès Diallo | Relations employés |
+| Inès Diallo | Relations employés | 104-5962 |
 | Jamal Hussein | RH international | 290-3234 |
 | Jean Dupont | Directeur informatique | 101-1010 |
 | Jean-Michel Saint-Louis | Analyste systèmes | 431-9025 |
@@ -65,10 +65,10 @@
 | Julie-Anne Fortin | Communication | 256-0000 |
 | Julie Fournier | Analyste data | 068-9012 |
 | Karim Aït Salah | Architecte cloud | 189-1012 |
-| Karine Bouchard | Directrice adjointe RH |
+| Karine Bouchard | Directrice adjointe RH | 582-4563 |
 | Kenji Tanaka | Expert intelligence artificielle | 147-5936 |
 | Kerven Petit-Frère | Spécialiste cloud | 137-6985 |
-| Kofi Mensah | Conseiller diversité |
+| Kofi Mensah | Conseiller diversité | 193-2592 |
 | Lars Johansson | Ingénieur systèmes | 804-3652 |
 | Léa Roy | Analyste QA | 990-2123 |
 | Luis Ortega | Responsable performance organisationnelle | 512-5456 |
@@ -115,14 +115,14 @@
 | Sophie Bernard | Développeuse back-end | 064-5678 |
 | Sophonie Laurent | Analyste QA | 926-5874 |
 | Sven Müller | Consultant IT senior | 126-5874 |
-| Takeshi Yamamoto | Ingénieur robotique logicielle | 904-3652
+| Takeshi Yamamoto | Ingénieur robotique logicielle | 904-3652 |
 | Tania Kovacs | Mobilité interne | 490-3234 |
 | Tariq Hassan | Technicien support | 336-8789 |
 | Thomas Petit | Administrateur réseaux | 483-4013 |
 | Thomas Weber | Directeur adjoint RH | 356-0001 |
 | Ugo Ferrari | Relations travail | 501-4345 |
 | Ulrich Mayer | Consultant IT | 690-0019 |
-| Umberto Ricci | Analyste systèmes
+| Umberto Ricci | Analyste systèmes | 149-1248 |
 | Ursula Schneider | Gestionnaire des systèmes ERP | 692-0485 |
 | Usman Malik | Spécialiste paie | 467-1113 |
 | Usman Sheikh | Spécialiste cloud | 812-8831 |
@@ -135,7 +135,7 @@
 | Wei Zhang | Ingénieur en apprentissage automatique | 814-2207 |
 | Wesley Joseph | Technicien réseau | 693-2841 |
 | William Chen | Analyste rémunération | 723-6567 |
-| Xiao Chen | Spécialiste intelligence artificielle | 467-3386
+| Xiao Chen | Spécialiste intelligence artificielle | 467-3386 |
 | Xavier Delorme | Ingénieur logiciel | 356-4475 |
 | Xavier Moreira | Stratégie RH | 834-7678 |
 | Ximena Cruz | Analyste expérience utilisateur | 925-3118 |
