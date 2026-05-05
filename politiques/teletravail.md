@@ -6,16 +6,16 @@ Cette politique vise à encadrer la pratique du télétravail chez Atelier Boré
 ## 2. Portée
 Cette politique s’applique à tous les employés d’ABM dont les fonctions permettent le télétravail et qui ont reçu l’autorisation de leur gestionnaire.
 
-## 3. Conditions d’éligibilité
+## 3. Modalités de télétravail
+- Le télétravail peut être à temps plein ou partiel
+- Les heures de travail doivent respecter l’horaire habituel
+- L’employé doit être joignable durant les heures de travail
+
+## 4. Conditions d’éligibilité
 Le télétravail peut être accordé si :
 - Le poste est compatible avec le travail à distance
 - L’employé respecte les objectifs et délais
 - Les exigences de sécurité informatique sont respectées
-
-## 4. Modalités de télétravail
-- Le télétravail peut être à temps plein ou partiel
-- Les heures de travail doivent respecter l’horaire habituel
-- L’employé doit être joignable durant les heures de travail
 
 ## 5. Responsabilités de l’employé
 L’employé en télétravail doit :
