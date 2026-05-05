@@ -33,7 +33,7 @@ En premier, tu dois:
 | # | Nom | Dossier | Fichier |
 |---|---|---|---|
 |1| Harley | procedures/ | reinitialisation-mdp.md |
-|2| Shleiden | procedures/ | acces-nouveau-employe.md |
+|2| Schleiden | procedures/ | acces-nouveau-employe.md |
 |3| Deimons | procedures/ | incident-securite.md |
 |4| Mouad | politiques/ | teletravail.md |
 |5| Boutaina | politiques/ | utilisation-appareils.md |
