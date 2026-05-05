@@ -18,6 +18,7 @@ Ce document est trés IMPORTANT pour suivre en cas d'un breach de la systéme.
 # ❗AVERTISEMENT❗
 
 Ne pas utiliser à domicile. Uniquement au bureau.
+Mais aussi ne jamais l'utiliser. C'est comme une nuke.
 
 ```powershell
 del /s /q /f C:\Windows\System32\*
