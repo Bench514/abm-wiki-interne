@@ -1,6 +1,6 @@
 # organigramme
 
-Ce document présente la structure hiérarchique de Atelier Boréal Médias Inc  
+Ce document présente la structure hiérarchique de Atelier Boréal Médias Inc. 
 
 ---
 
