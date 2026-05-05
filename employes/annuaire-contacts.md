@@ -1,6 +1,6 @@
 # Annuaire des contacts
 
-| Nom | Poste | Téléphone | d |
+| Nom | Poste | Téléphone |
 | --- | --- | --- |
 | Adam Benyamina | Analyste systèmes | 901-2234 |
 | Ahmed Ben Saïd | Architecte sécurité | 560-9218 |
