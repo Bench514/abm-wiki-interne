@@ -7,7 +7,7 @@ Afin que l'employé soit prêt pour commencer à travailler, il est necessaire q
 
 | Item 1 | Item 2 | Item 3 |
 |---|---|---|
-| ![bottes de sécurité](C:Users/SchleidenAlcius/Documents/workspace/abm-wiki-interne/procedures/Bottes.png)|![Uniforme](C:Users/SchleidenAlcius/Documents/workspace/abm-wiki-interne/procedures/Uniforme.png)|![casque de sécurité](C:Users/SchleidenAlcius/Documents/workspace/abm-wiki-interne/procedures/Casque.png)|
+| ![bottes de sécurité](Bottes.png)|![Uniforme](Uniforme.png)|![casque de sécurité](Casque.png)|
 |Bottes de sécurité. |Uniforme|Casque |
 
 Ces items peuvent être achetés ou loués dans notre boutique qui se trouve au rez-de-chaussée du pavillon Luminous située au 1234 rue Curtis Crescent, Labrador City, Quebec, A2V 1P5. 
