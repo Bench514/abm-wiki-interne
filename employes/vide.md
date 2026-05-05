@@ -1,7 +1,7 @@
-Ì≥ò Documentation √âquipe TI
+### Documentation √âquipe TI
 > Guide de r√©f√©rence ‚Äî Outils et bonnes pratiques Git, Bash & VS Code
 ---
-Ì∑∞ Outils utilis√©s
+### Outils utilis√©s
 Outil	Description
 Git	Gestionnaire de versions
 Git Bash	Terminal Unix sur Windows (MINGW64)
@@ -9,7 +9,7 @@ VS Code	√âditeur de code
 GitHub	H√©bergement des d√©p√¥ts distants
 winget	Gestionnaire de paquets Windows
 ---
-Ì≤ª Environnement
+### Environnement
 MINGW64 / Git Bash
 MINGW64 (Minimalist GNU for Windows 64-bit) est l'environnement qui permet d'utiliser des commandes Unix sur Windows. Il est inclus avec Git for Windows.
 Int√©grer Git Bash √† VS Code
@@ -18,7 +18,7 @@ Taper : `Terminal: Select Default Profile`
 S√©lectionner Git Bash
 Ouvrir un nouveau terminal : `Ctrl + ¬∞`
 ---
-Ì≥¶ Installation de Git
+### Installation de Git
 Via winget (CMD)
 ```cmd
 winget install Git.Git
@@ -28,7 +28,7 @@ V√©rifier l'installation
 git --version
 ```
 ---
-Ì¥ß Commandes Bash essentielles
+### Commandes Bash essentielles
 Navigation
 ```bash
 pwd               # Afficher le r√©pertoire actuel
@@ -56,7 +56,7 @@ Rechercher et remplacer dans un fichier
 sed -i 's/alice/Alice/g' journal.txt
 ```
 ---
-Ì∞ô Commandes Git essentielles
+### Commandes Git essentielles
 Configuration initiale
 ```bash
 git config --global user.name "Ton Nom"
@@ -88,7 +88,7 @@ Raccourci add + commit (fichiers d√©j√† suivis uniquement)
 git commit -am "Ma modification"
 ```
 ---
-Ìºø Gestion des branches
+### Gestion des branches
 Lister les branches
 ```bash
 git branch          # Branches locales
@@ -114,7 +114,7 @@ git log --oneline --graph --all     # Vue graphique de toutes les branches
 git show ABC123                     # D√©tail d'un commit pr√©cis
 ```
 ---
-Ì¥Å Bonnes pratiques
+### Bonnes pratiques
 Travailler avec des branches
 Avant de modifier du code, toujours cr√©er une branche :
 ```bash
@@ -155,16 +155,16 @@ mkdir ../nom-du-dossier
 cp fichier.php ../nom-du-dossier/
 ```
 ---
-Ì¥ó Ressources utiles
+### Ressources utiles
 Documentation Git : https://git-scm.com/doc
 GitHub : https://github.com
 VS Code : https://code.visualstudio.com
 Winget : https://learn.microsoft.com/fr-fr/windows/package-manager/winget/
 ---
-Document g√©n√©r√© par l'√âquipe TI ‚Äî Mis √† jour le 2026-05-04Ì≥ò Documentation √âquipe TI
+Document g√©n√©r√© par l'√âquipe TI ‚Äî Mis √† jour le 2026-05-04### Documentation √âquipe TI
 > Guide de r√©f√©rence ‚Äî Outils et bonnes pratiques Git, Bash & VS Code
 ---
-Ì∑∞ Outils utilis√©s
+### Outils utilis√©s
 Outil	Description
 Git	Gestionnaire de versions
 Git Bash	Terminal Unix sur Windows (MINGW64)
@@ -172,7 +172,7 @@ VS Code	√âditeur de code
 GitHub	H√©bergement des d√©p√¥ts distants
 winget	Gestionnaire de paquets Windows
 ---
-Ì≤ª Environnement
+### Environnement
 MINGW64 / Git Bash
 MINGW64 (Minimalist GNU for Windows 64-bit) est l'environnement qui permet d'utiliser des commandes Unix sur Windows. Il est inclus avec Git for Windows.
 Int√©grer Git Bash √† VS Code
@@ -181,7 +181,7 @@ Taper : `Terminal: Select Default Profile`
 S√©lectionner Git Bash
 Ouvrir un nouveau terminal : `Ctrl + ¬∞`
 ---
-Ì≥¶ Installation de Git
+### Installation de Git
 Via winget (CMD)
 ```cmd
 winget install Git.Git
@@ -191,7 +191,7 @@ V√©rifier l'installation
 git --version
 ```
 ---
-Ì¥ß Commandes Bash essentielles
+### Commandes Bash essentielles
 Navigation
 ```bash
 pwd               # Afficher le r√©pertoire actuel
@@ -219,7 +219,7 @@ Rechercher et remplacer dans un fichier
 sed -i 's/alice/Alice/g' journal.txt
 ```
 ---
-Ì∞ô Commandes Git essentielles
+### Commandes Git essentielles
 Configuration initiale
 ```bash
 git config --global user.name "Ton Nom"
@@ -251,7 +251,7 @@ Raccourci add + commit (fichiers d√©j√† suivis uniquement)
 git commit -am "Ma modification"
 ```
 ---
-Ìºø Gestion des branches
+### Gestion des branches
 Lister les branches
 ```bash
 git branch          # Branches locales
@@ -277,7 +277,7 @@ git log --oneline --graph --all     # Vue graphique de toutes les branches
 git show ABC123                     # D√©tail d'un commit pr√©cis
 ```
 ---
-Ì¥Å Bonnes pratiques
+### Bonnes pratiques
 Travailler avec des branches
 Avant de modifier du code, toujours cr√©er une branche :
 ```bash
